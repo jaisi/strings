@@ -1,4 +1,4 @@
-# String Manipulation
+# String Manipulation - COMPLETE
 
 ## Setup
 
